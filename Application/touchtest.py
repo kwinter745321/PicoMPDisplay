@@ -135,6 +135,8 @@ def main():
 
     #mytft.setTextStyle((255, 255, 255), None, 0, font14)
     print("main loop: before while")
+    print("Note:")
+    print("Nothing shown on LCD, but you can touch the screen to get x,y readings")
     cnt = 0
     rtn = ""
     while rtn != "Q":
@@ -152,3 +154,4 @@ def main():
         time.sleep(2)
 
 main()
+q

@@ -57,7 +57,7 @@ class TOUCH:
     def __init__(self, controller="XPT2046", asyn=False, *, confidence=5, margin=50, delay=10, calibration=None, spi = None):
         if spi is None:
             #self.spi = SPI(-1, baudrate=1000000, sck=Pin("X12"), mosi=Pin("X11"), miso=Pin("Y2"))
-            self.spi = SPI(-1, baudrate=1000000, sck=Pin(SPISCK), mosi=Pin(SPIMOSI), miso=Pin(SPIMISO))
+            self.spi = SPI(1, baudrate=1000000, sck=Pin(SPISCK), mosi=Pin(SPIMOSI), miso=Pin(SPIMISO))
         else:
             self.spi = spi
         self.recv = bytearray(3)

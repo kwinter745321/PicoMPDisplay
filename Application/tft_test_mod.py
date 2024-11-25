@@ -389,7 +389,7 @@ test8 = False   #test keyboard with touch
 test9 = True
 
 
-main(True, False)
+main(False, False)
 
 
 print("done")

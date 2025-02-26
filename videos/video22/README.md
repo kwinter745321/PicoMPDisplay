@@ -17,7 +17,7 @@ This directory contains the files for video 22.
 |         | test_ili9xxx_demo.py | Demonstration program |
 |         | xpt2046-test.py      | tests the touch controller |
 |         |                      |                            |
-| Firmware     | firmware.uf2    |   you only need this file  |
+| Firmware     | firmware.uf2    |   drag this file to the Pico  |
 |         |                      |                                 |
 | Pico    |                      |                             |
 |         |   ili9xxx.py         | generic ili9341 driver  |

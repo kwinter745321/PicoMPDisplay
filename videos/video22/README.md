@@ -26,4 +26,8 @@ This directory contains the files for video 22.
 |         |   xpt2046.py         | touch driver           |
 
 
+# Update 28 Febrary 2025
+
+Included the Pico_W (RP2040) firmware.
+
 

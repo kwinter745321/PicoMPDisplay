@@ -2,7 +2,7 @@
 
 12 March 2025
 
-This is video 24.  The third video on MicroPython LVGL. This video demonstrates three code examples of widgets that use List: List, Roller, and Dropdown. Additionally the MessageBox widget is introduced.  Additionally, some discussion is provided on applying Styles.
+This is video 24.  The third video on MicroPython LVGL. This video demonstrates three code examples of widgets that use List: List, Roller, and Dropdown. Additionally the MessageBox and Spinner widgets are introduced. Finally, some discussion is provided on applying Styles to various Parts of a widget.
 
 The hardware is a Ili9341 LCD Display with integrated Touch and SD Card.  The display board is wired to the Raspberry Pi Pico-W USB board and tested.  
 

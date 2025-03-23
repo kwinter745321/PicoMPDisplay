@@ -15,6 +15,9 @@ The hardware is a Ili9341 LCD Display with integrated Touch and SD Card.  The di
 
 Note:  The RPI Pico USB board is used in this video to ensure the display of the Round Scale.
 
+Simulator:
+https://sim.lvgl.io/v9.0/micropython/ports/javascript/index.html 
+
 # Contents
 This directory contains the files for video 25.  Each program displays the Scales in their default black color on a white background.  The various Scale Parts can be changed to a color-style if you uncomment a specific line. 
 

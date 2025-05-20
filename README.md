@@ -5,7 +5,7 @@ The Pico MP Display Base Board v1.0.1 is a printed circuit board (PCB) designed 
 
 - Note: This board expects RP2040 MicroPython 1.20 or later firmware. 
 
-- For the current demonstration software see the [README.md](Application\README.md) in the Application directory.
+- For the current demonstration software see the [README.md](https://github.com/kwinter745321/PicoMPDisplay/tree/main/Application) in the Application directory.
 
 The 24-bit graphics are fast because the display uses eight data lines.  The pictures demonstrate the Pico MP Display Base Board hosting a five (5) inch 800x480 pixel display and a seven (7) inch 800x480 pixel display.  Affordable displays simply insert into the Display Port.  A separate power connector provides power to the seven inch display and optionally it can power the whole system.
 
